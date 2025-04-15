@@ -6,7 +6,7 @@
 
 ## My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,postgresql)
+![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,postgresql,vue)
 
 ---
 
@@ -14,5 +14,5 @@
 
 <div>
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=DaviAlencar2&show_icons=true&theme=dark"/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlencar2&layout=compact&theme=dark&v=2"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlencar2&layout=compact&theme=dark&v=3"/>
 </div>
