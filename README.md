@@ -6,7 +6,7 @@
 
 ## My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,java,golang,django,)
+![My Skills](https://skillicons.dev/icons?i=python,java,ts,golang,django,)
 
 ---
 
