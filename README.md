@@ -13,6 +13,6 @@
 ## GitHub Stats
 <!-- Hospedei na minha vercel pois a original estac fora do ar -->
 <div>
-  <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api?username=DaviAlencar2&show_icons=true&theme=dark&v=3"/>
-  <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api/top-langs/?username=DaviAlencar2&layout=compact&theme=dark&v=5"/>
+  <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api?username=DaviAlencar2&show_icons=true&theme=dark"/>
+  <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api/top-langs/?username=DaviAlencar2&layout=compact&theme=dark"/>
 </div>
